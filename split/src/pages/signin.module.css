@@ -1,0 +1,32 @@
+.formContainer{
+    background-color: rgb(208, 215, 213);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+
+    .formWrapper form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    
+    }
+
+.formWrapper form input{
+  padding: 12px;
+  border: none;
+  width: 250px;
+  border-bottom:1px solid  rgb(161, 11, 215);
+
+
+}
+.formWrapper form button{
+  background-color: rgb(42, 42, 165);
+  color: white;
+  padding: 10px;
+  font-weight: bold;
+  /* border: none; */
+  cursor: pointer;
+  border-radius: 15px;
+}

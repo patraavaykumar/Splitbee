@@ -1,0 +1,80 @@
+.container{
+    margin-top: 25rem;
+}
+
+
+
+
+#slant{
+    background-color: rgb(231, 235, 241);
+    margin-bottom: -10px;
+}
+
+#third{
+    height: 100vh;
+    width: 99vw;
+    background-color: rgb(231, 235, 241);
+    /* margin-bottom: -20px; */
+}
+
+#slant_two{
+    background-color: rgb(231, 235, 241);
+    transform: rotate(180deg);
+}
+
+#heart{
+    height: 250px;
+    width: 99vw;
+    /* background-color: yellow; */
+    margin: 0 0 0 600px;
+}
+
+#block_one{
+    height: 30vh;
+    width: 99vw;
+    /* background-color: blue; */
+    display: flex;
+}
+
+#b_one{
+    height: 100%;
+    width: 50%;
+    /* background-color: yellow; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+.para{
+    line-height: 1.5;
+    text-align: center;
+    font-size: 20px;
+}
+
+.name{
+    color: blue;
+    margin-top: 20px;
+}
+
+.position{
+    margin-top: 4px;
+}
+
+#b_two{
+    height: 100%;
+    width: 50%;
+    /* background-color: yellow; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#block_two{
+    height: 30vh;
+    width: 99vw;
+    /* background-color: blue; */
+    display: flex;
+}

@@ -1,0 +1,26 @@
+
+.logo {
+    height: 10px;
+  }
+  
+  .logo > div {
+    display: flex; 
+    flex-direction: column;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .logo > div > div {
+    margin-bottom: 20px;
+  }
+  
+  .images {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center; 
+  }
+  
+  .images img {
+    width: 100px; 
+    height: auto; 
+  }

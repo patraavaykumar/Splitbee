@@ -1,0 +1,16 @@
+.heading{
+    text-align: center;
+}
+
+.homePage{
+    background-color: hsl(40, 25%, 95%);
+}
+
+.heading button{
+    background-color: goldenrod;
+    border-radius: 1.5rem;
+}  
+
+
+
+
